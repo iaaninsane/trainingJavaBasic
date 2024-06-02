@@ -21,7 +21,7 @@ public class TiposPrimitivos {
 		//Tipo caractere
 		char status = 'b';
 		
-		
+		System.out.println("tipos numéricos: \n" + "bite: " + anosDeEmpresa + "\n" + "short: " + numeroDevoos);
 	}
 
 }
