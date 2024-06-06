@@ -12,14 +12,14 @@ public class TiposPrimitivos {
 		long pontosAcumulados = 3_698_521_447L; //8 bytes
 		
 		//Tipos Numéricos Reais
-		float salario = 75_364.32F;
-		double vendasTotal = 785_234_367.6;
+		float salario = 75_364.32F; // 4bytes
+		double vendasTotal = 785_234_367.6; //8bytes
 		
 		//Tipo booleano
-		boolean ativo = true;
+		boolean ativo = true; //1 bit
 		
 		//Tipo caractere
-		char status = 'b';
+		char status = 'b'; //1 byte
 		
 		System.out.println("tipos numéricos: \n" + "bite: " + anosDeEmpresa + "\n" + "short: " + numeroDevoos);
 	}
