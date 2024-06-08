@@ -2,7 +2,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class SwitchBrerak {
+public class SwitchCase {
 
 	public static void main(String[] args) {
 		
